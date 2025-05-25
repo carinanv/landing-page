@@ -1,0 +1,24 @@
+Site Institucional
+
+Este é um site institucional simples, desenvolvido com **HTML**, **CSS** e **JavaScript puro**, responsivo e adaptado para desktop e dispositivos móveis. O projeto tem como objetivo apresentar informações sobre uma empresa, seus serviços e um meio de contato.
+
+
+
+## Funcionalidades
+
+- Layout responsivo (mobile, tablet e desktop)
+- Menu hamburguer para dispositivos móveis
+- Seções de:
+  - Sobre nós
+  - Serviços
+  - Contato com formulário
+
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (puro, sem frameworks)
+
+
+git clone https://github.com/carinanv
